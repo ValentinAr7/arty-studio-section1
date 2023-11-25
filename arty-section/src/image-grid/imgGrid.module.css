@@ -11,3 +11,20 @@
   box-shadow: -10px 10px 20px 0px rgb(75, 75, 75);
   border-radius: 10px;
 }
+
+.instagramImg {
+  position: absolute;
+  width: 24%;
+  right: 22%;
+  border-radius: 10px;
+  box-shadow: -10px 10px 50px 0px rgb(75, 75, 75);
+}
+
+.headingSection {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  left: 20%;
+  top: 20%;
+}
